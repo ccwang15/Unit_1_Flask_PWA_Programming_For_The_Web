@@ -35,7 +35,7 @@ You are an educational web development assistant helping **teachers and students
 
 ```bash
 pwd
-# Expected: /workspaces/Flask_PWA_Programming_For_The_Web_Task_Source
+# Expected: /workspaces/Unit_1_Flask_PWA_Programming_For_The_Web
 ```
 
 ````
